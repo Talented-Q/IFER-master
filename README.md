@@ -21,7 +21,7 @@ More results:
 ![avatar](figure/img_3.png)
 
 ## Updates  
-**`2022.06.17`**:ASIT model, training and validation scripts released for FFHQ and Celeba-HQ image inversion. IFER model, training and validation scripts released for RAF-DB, SFEW and AffecNet image classification.    
+**`2022.11.16`**:ASIT model, training and validation scripts released for FFHQ and Celeba-HQ image inversion. IFER model, training and validation scripts released for RAF-DB, SFEW and AffecNet image classification.    
 
 ### Pretrained Models  
 Please download the pre-trained models from the following links. Each ASIT model contains the entire ASIT architecture, including the encoder and decoder weights.
